@@ -28,7 +28,7 @@ console.log(`Hello JS User ${this.name}`);
 
 
 
-//======= singleton=======
+//======= singleton object =======
 
 const tinderUser= new Object()
 tinderUser.id="123abc"
